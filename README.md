@@ -1,2 +1,3 @@
-# goit-markup-hw-01
-My first homework for GOIT
+# goit-markup-lesson1-barbershop
+First html lesson
+
